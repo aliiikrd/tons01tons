@@ -1,0 +1,19 @@
+# ==============================================================================
+#  Requirements for Telegram Media Downloader Bot
+#  Developed by @whykurds  |  Bot: @AllSocialSaversbot
+# ==============================================================================
+#
+#  python-telegram-bot:
+#    The official async Python wrapper for the Telegram Bot API (v20+).
+#    Provides Application, handlers, filters, and inline keyboard support.
+#    Docs: https://docs.python-telegram-bot.org/
+#
+#  yt-dlp:
+#    A feature-rich command-line/library media downloader forked from youtube-dl.
+#    Supports 1000+ sites (YouTube, Instagram, TikTok, Twitter/X, etc.).
+#    Docs: https://github.com/yt-dlp/yt-dlp
+#
+# ==============================================================================
+
+python-telegram-bot>=20.0
+yt-dlp>=2024.0
