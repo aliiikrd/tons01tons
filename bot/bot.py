@@ -90,7 +90,7 @@ BOT_TOKEN = os.environ.get(
 # Replace "YOUR_VERCEL_URL" with your actual Vercel deployment URL.
 MINI_APP_URL = os.environ.get(
     "MINI_APP_URL",
-    "https://YOUR_VERCEL_URL"  # <-- Replace after deploying mini_app/ to Vercel
+    "https://tons01tons-njgo.vercel.app"  # <-- Replace after deploying mini_app/ to Vercel
 )
 
 # ──────────────────────────────────────────────────────────────────────────────
